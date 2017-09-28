@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package>
+  <name>openni2_tracker</name>
+  <version>0.0.0</version>
+  <description>The openni2_tracker package</description>
+  <maintainer email="yuhui@todo.todo">yuhui</maintainer>
+  <license>TODO</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>image_geometry</build_depend>
+  <build_depend>roslib</build_depend>
+  <build_depend>kdl_conversions</build_depend>
+  
+  <run_depend>roscpp</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>tf</run_depend>
+  <run_depend>image_geometry</run_depend>
+  <run_depend>roslib</run_depend>
+  <run_depend>kdl_conversions</run_depend>
+
+</package>
